@@ -1,6 +1,6 @@
 cask "paperrush-bar" do
-  version "1.5.3"
-  sha256 "7bb2d0605211f995922bafb853e6dd598bcf80ad7921986419bbe7a8c702fabc"
+  version "1.5.4"
+  sha256 "3f3badbff5d2999f1c25e4b29a8ebe31383bd643cf8daf65a6058bba61f3f65b"
 
   url "https://github.com/LucasHyun/paperrush-bar/releases/download/v#{version}/PaperRushBar-v#{version}.zip"
   name "PaperRush Bar"
